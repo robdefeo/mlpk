@@ -1,2 +1,4 @@
 faq-for-aod.md
 .DS_Store
+.venv/
+.ipynb_checkpoints/
