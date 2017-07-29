@@ -254,10 +254,6 @@ Neural network
 Sequencial: is an array that takes all the layers, allows building multi layer
 
 
-Stochastic gradient descent: is an optimisation prodecure.The most important thing in ML starts with random weights and ends with weights that you want.
-
-
-
 Weights
 
 
