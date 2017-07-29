@@ -7,7 +7,6 @@ mean?**
 The confidence of the classifier is expressed in probabilties, e.g.
 Pr(y=cat|x)=0.9 meaning the classifier is 90% sure that it's a cat.
 
-
 **Should I always take the result with the highest probability?**
 It depends on the loss of a incorrect result, 90% is high but 10% of the time
 not stopping at a red light is too high!
@@ -28,5 +27,12 @@ identifying the wrong type of cat (harmless) to miss-identifying the wrong snake
 further from the truth however it is not uniform.
 
 **When can classification not be used effectivly?**
+
 - *Tagging* it would result in running 'n' models to add all the tags
 - *[Regression](./regression.md)* predict a spefic value
+
+## Binary Classification
+
+## Multi-class classification
+
+**What is multi-class classification?** TODO:

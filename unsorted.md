@@ -11,8 +11,6 @@ It would take an impossibly long time to complete a satisfactory calculation.
 
 The goal of machine learning is to produce models that generalize to previously unseen data. !!!!
 
-What is multi-class classification?
-
 Select the most appropriate class based on 2+ options, results in a single answer of a class to a problem. E.g. is a Plane
 
 
