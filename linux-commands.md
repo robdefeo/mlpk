@@ -2,7 +2,9 @@
 
 ## Tmux
 
-Tmux is a tool that allows for multiple windows to be open with in a single terminal session, run with `tumx`.  You can attach to exsiting session with `tmux attach`
+Tmux is a tool that allows for multiple windows to be open with in a single
+terminal session, run with `tumx`.  You can attach to exsiting session with
+`tmux attach`
 
 ## Utils
 

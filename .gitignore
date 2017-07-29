@@ -2,3 +2,4 @@ faq-for-aod.md
 .DS_Store
 .venv/
 .ipynb_checkpoints/
+./notebooks/faq-for-aod.ipynb

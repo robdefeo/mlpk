@@ -1,14 +1,15 @@
 # Overfitting
 
-**What is overfitting?**  Where the model learns patterns that do not generliase to new data that is was not trained on.  Effectively it learns features that are not relevant for making predictions, it works great on a specific training set but not for general patterns.
+**What is overfitting?**  Where the model learns patterns that do not generliase to new data that is was not trained on.  It learns features that are not relevant for making predictions, it works great on a specific training set but not for general patterns.
 
 **How to tell if a model is overfitting?**  The model has higher accuracy for the specific training / test set but lower against the validation set.
 
 **What causes overfitting?**
 Overfitting happens when a model exposed to too few examples learns patterns that do not generalize to new data, i.e. when the model starts using irrelevant features for making predictions.
+TODO:
 
-- Using the wrong model architecture
-- Too few samples
+- Inappropiate [model architecture](./model-architecture.md)
+- Too few samples (data)
 - Non reperesentive samples
 - Training for too long, without using dropout or data augmentation.
 
