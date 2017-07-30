@@ -8,7 +8,7 @@ If not then it will not perform well against unseen data, the goal of machine le
 
 **What factors influences a models ability to generalize?**
 
-- If the number of parameters are too large this can negatively effect it.  Number of paramets is part of the [model architecture](./model-architecture.md)
+- If the number of parameters are too large this can negatively effect it.  Number of parameters is part of the [model architecture](./model-architecture.md)
 - [Small number of training examples](./small-data.md) this relates to the amount of labels.
 
-Model parameter and number of training examples are related, e.g. if the training examples far exceed the number of parameters it can often be ok.
+The number of model parameter and number of training examples have an effect on each other, e.g. if the training examples far exceed the number of parameters it can often be ok.
