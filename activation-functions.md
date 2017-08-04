@@ -9,6 +9,7 @@ them, making the results as close as possible to 1 or 0 for easy conversion. The
 It converts the output values so they are as close as possible to 1 or 0, e.g.
 one-hot encoded, ideal for use in multi-class classification problems.
 
+**What is a relu function?** TODO:
+
 **What activation functions should I use where?** TODO:
-If in doubt use "relu" everywhere apart form the last layer and there use
-"softmax"
+If in doubt use "relu" everywhere apart form the last layer and there use "softmax"
