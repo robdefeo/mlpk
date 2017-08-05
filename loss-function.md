@@ -14,12 +14,27 @@ Train a model means making it better and better over the course of a period of
 training. But in order for this goal to make any sense at all, we first need to
 define what better means in the first place.
 
-
-# Cross-entropy loss function
+## Cross-entropy loss function
 
 **What is cross-entropy loss function?**
 Used widely in deep learning, it is appropiate for (multi) classification
 problems. TODO: GOT TIRED!!!!!
+
+## Binary Entropy / Binary Cross Entropy 
+TODO: See lesson 2 32:15 onwards write it up with pandas
+
+## Categorical Entropy / Categorical Cross Entropy
+
+## Log Loss
+
+**What is log loss?**
+In keras it's known as binary entropy or categorical entropy.
+
+**Where is log loss used?** TODO:
+In some kaggle competitions
+
+
+
 
 # Notes
 TODO:
