@@ -1,3 +1,9 @@
+**What is max pooling?**  TODO:
+
+How are the parameter numbers calucated?
+
+What is the effect of max pooling?
+
 What is TSNE?
 It is a way of compressing a large vector so the similar things can be plotted on a chart to show similar items next to each other. E.g. create the cool charts that plots similar words next to each other, a 2d representation is simple so something things will appear strangely.
 
@@ -162,34 +168,6 @@ What is an attentional model?
 Attempt as simulating an eye, centre of image is in focus, when the thing you are looking for is not in the middle and in low resolution part of the image then it will be refocused to have this in the centre. 
 
 
-What is learning rate?
-
-
-
-
-What happens if the learning rate is too low? 
-
-It will take much longer to find the answer, ideally the learning rate should allow the step to be either side of the line.
-
-
-What happens if the learning rate is too high?
-
-The steps become much bigger and it gets further and further from the answer.
-
-
-What is dynamic learning rates?
-
-Different parameters can be set with different learning rates that are appropriate for them individually. It would mean that each parameter in a filter would have its own learning rate, e.g. 3x3 would have 9, for each filter in each layer.
-
-
-What special considerations should be taken for learning rates of new model?
-
-A new model might just pick a class and set everything as that, e.g. always say 8, in this case set the learning rate very low e.g. '1e-5' have the validation score come out as significantly better than random then set learning rate as per the normal approach.
-
-
-
-
-If you started off with a large learning weight for speed then you would need to make it smaller as you got closer to the lower error rate, otherwise the steps would be too large.As your validation scores flatten out then try dividing learning rate by 10 and try again, repeat. 
 
 
 What is momentum?
