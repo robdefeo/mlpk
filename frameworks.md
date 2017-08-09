@@ -4,6 +4,8 @@
 MXNet library, which has the rare property of being flexible enough for research
 while being fast enough for production
 
+**How do I install the latest nightly build of MxNet?**
+`pip install mxnet -U --pre`
 
 ## Keras
 
