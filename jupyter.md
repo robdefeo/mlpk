@@ -1,8 +1,9 @@
 # Jupyter
 
-**What is jupyter?** TODO:
+**What is jupyter?**
+Offers a place to write notes and execute code, meaning steps can be documents and executed in a REPL.
 
-**How to expose a file download link in jupyer notebook?**
+**How to expose a file download link in jupyter notebook?**
 
 ```python
 from  IPython.display import FileLink
