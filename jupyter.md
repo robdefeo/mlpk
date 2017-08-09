@@ -4,7 +4,7 @@
 Offers a place to write notes and execute code, meaning steps can be documents and executed in a REPL.
 
 **How to make autocomplete work in a notebook?**
-It's enabled by default, press tab after a . or part the way though a word.  You will need to have already imported the module you are trying to autocomplete on for it to work.  E.g. if a cell containing
+It's enabled by default, press `tab` after a `.` or part the way though a word.  You will need to have already imported the module you are trying to autocomplete on for it to work.  E.g. if a cell containing
 ```python
 import mxnet
 mxnet.a
