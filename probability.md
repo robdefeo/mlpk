@@ -1,5 +1,8 @@
 # Probability
 
+**Can I use the probability output from a deep learning network to decide how likely or how often something is correct?**
+The probablity that comes form a model is mathmatical (all classes add up to 1) rather than statistical (it is X% likely to be correct). Think of a model that predicts cats and dogs each class has a probability, added up it must equal 1, e.g. cats (0.99) vs dog (0.01) the model is more sure that it is a cat rather than a dog, not that 99% of the time it is a cat.
+
 **Show me an example of probability in action?**
 Roll a dice enough times and it will converge
 
