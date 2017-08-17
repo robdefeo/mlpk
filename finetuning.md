@@ -9,3 +9,12 @@ Models can take a long time to train, fine tuning means it does not need to star
 **How does fine tuning work?**
 
 **What are the limits of fine tuning?**
+
+**Is there an easy way to fine tune models?**
+For MxNet and image classification you can use https://github.com/knjcode/mxnet-finetuner 
+
+**What is the effect of making a layer trainable/non-trainable?**
+TODO:
+
+**How to decide what layers should be trainable/non-trainable?**
+TODO:
